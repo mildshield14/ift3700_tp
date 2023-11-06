@@ -2,15 +2,12 @@ import requests
 import time
 from bs4 import BeautifulSoup
 import pandas as pd
-import re
 #proposed by chatgpt to get url content name
 from urllib.parse import unquote
 
 url="https://en.wikipedia.org/wiki/List_of_countries_by_spending_on_education_as_percentage_of_GDP"
 
 response=requests.get(url)
-time.sleep(1)
-
 soup=BeautifulSoup(response.content, 'html.parser')
 
 #find table 
