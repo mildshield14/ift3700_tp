@@ -1,9 +1,10 @@
 import requests
-import time
 from bs4 import BeautifulSoup
 import pandas as pd
 #proposed by chatgpt to get url content name
 from urllib.parse import unquote
+
+#source:https://medium.com/analytics-vidhya/web-scraping-a-wikipedia-table-into-a-dataframe-c52617e1f451
 
 url="https://en.wikipedia.org/wiki/List_of_countries_by_spending_on_education_as_percentage_of_GDP"
 
