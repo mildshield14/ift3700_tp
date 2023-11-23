@@ -1,0 +1,288 @@
+Rank,Country,Fertility rate for 2023 (Medium Variant) (births/woman)
+1,Niger,6.51
+2,Somalia,5.66
+3,DR Congo,5.46
+4,Mali,5.46
+5,Chad,5.32
+6,Angola,5.21
+7,Nigeria,5.08
+8,Burundi,5.04
+9,Gambia,4.90
+10,Burkina Faso,4.83
+11,Tanzania,4.63
+12,Benin,4.54
+13,Mozambique,4.54
+14,Uganda,4.44
+15,Ivory Coast,4.40
+16,Central African Republic,4.38
+17,Guinea,4.38
+18,Zambia,4.38
+19,South Sudan,4.36
+20,Senegal,4.34
+21,Mauritania,4.32
+22,Cameroon,4.29
+23,Congo,4.19
+24,Guinea-Bissau,4.16
+25,Equatorial Guinea,4.15
+26,Solomon Islands,4.15
+27,Sudan,4.15
+28,São Tomé and Príncipe,4.08
+29,Togo,4.06
+30,Liberia,4.03
+31,Comoros,3.93
+32,Malawi,3.91
+33,Sierra Leone,3.86
+34,Afghanistan,3.85
+35,Madagascar,3.85
+36,Ethiopia,3.82
+37,Eritrea,3.76
+38,Rwanda,3.73
+39,Gabon,3.71
+40,Samoa,3.68
+41,Ghana,3.65
+42,Vanuatu,3.62
+43,East Timor,3.60
+44,Iraq,3.45
+45 (1),Mayotte (France),3.44
+46,Yemen,3.43
+47,Kiribati,3.41
+48,Tajikistan,3.40
+49,Tonga,3.39
+50,Papua New Guinea,3.38
+51,Palestine (Gaza Strip and West Bank),3.36
+52,Zimbabwe,3.32
+53,Kenya,3.26
+54,Pakistan,3.24
+55 (2),French Guiana (France),3.19
+56,Namibia,3.17
+57,Egypt,3.13
+58,Lesotho,2.97
+59,Morocco,2.93
+60,Kyrgyzstan,2.83
+61,Eswatini (Swaziland),2.80
+62,Micronesia,2.87
+63,Algeria,2.79
+64,Haiti,2.74
+65,Mongolia,2.73
+66,Botswana,2.69
+67,Guatemala,2.67
+68,Fiji,2.65
+69,Syria,2.64
+70,Turkmenistan,2.63
+71,Kazakhstan,2.62
+72,Oman,2.60
+73,Bolivia,2.58
+74,Jordan,2.58
+75,Djibouti,2.52
+76,Laos,2.48
+77,Philippines,2.45
+,World,2.42
+78,Cambodia,2.39
+79,Guyana,2.37
+80,Panama,2.37
+81,Seychelles,2.34
+82,Paraguay,2.33
+83,Ecuador,2.32
+84,Honduras,2.32
+85,Suriname,2.32
+86,South Africa,2.31
+87,Uzbekistan,2.31
+88,Israel,2.30
+89,Nicaragua,2.28
+90,Western Sahara,2.27
+91 (3),Guam (US),2.24
+92,Dominican Republic,2.23
+93,Indonesia,2.22
+94,Argentina,2.20
+95,Belize,2.19
+96,Venezuela,2.18
+97,Saudi Arabia,2.17
+98,Peru,2.16
+99,Cape Verde,2.15
+100,India,2.14
+101,Sri Lanka,2.13
+102,Libya,2.11
+103,Tunisia,2.10
+,Population replacement,2.10
+104 (4),Guadeloupe (France),2.09
+105,Iran,2.09
+106,Myanmar (Burma),2.07
+107,Kuwait,2.03
+108,Mexico,2.03
+109,Georgia,2.02
+110,Lebanon,2.02
+111,Vietnam,2.02
+112,Azerbaijan,1.99
+113,Turkey,1.99
+114,Grenada,1.98
+115 (5),U.S. Virgin Islands (US),1.97
+116,El Salvador,1.96
+117,Antigua and Barbuda,1.95
+118,Bangladesh,1.93
+119,Malaysia,1.92
+120,Uruguay,1.92
+121,Jamaica,1.91
+122 (6),New Caledonia (France),1.90
+123,Bahrain,1.89
+124 (7),Aruba (Netherlands),1.88
+125 (8),French Polynesia (France),1.88
+126,Bhutan,1.87
+127,North Korea,1.86
+128,France,1.85
+129,New Zealand,1.85
+130,Sweden,1.84
+131 (9),Martinique (France),1.83
+132,Russia,1.82
+133,Saint Vincent and the Grenadines,1.81
+134,Nepal,1.80
+135,Ireland,1.79
+136,Australia,1.78
+137,Qatar,1.78
+138,United States,1.78
+139,Denmark,1.77
+140,Maldives,1.77
+141,Armenia,1.76
+142,Brunei,1.76
+143,United Kingdom,1.75
+144,Belarus,1.74
+145,Latvia,1.74
+146,Montenegro,1.74
+147,Belgium,1.73
+148,Colombia,1.73
+149 (10),Curaçao (Netherlands),1.72
+150,Iceland,1.72
+151,Bahamas,1.71
+152,China,1.70
+153,Lithuania,1.70
+154,Norway,1.70
+155,Costa Rica,1.68
+156,Czech Republic / Czech Republic,1.68
+157,Netherlands,1.68
+158,Trinidad and Tobago,1.67
+159,Romania,1.65
+160,Barbados,1.64
+161,Slovenia,1.64
+162,Estonia,1.63
+163,Bulgaria,1.61
+164,Germany,1.61
+165,Chile,1.60
+166,Austria,1.57
+167,Cuba,1.57
+168,Slovakia,1.55
+169,Switzerland,1.56
+170,Albania,1.54
+171,Channel Islands - (11) Guernsey (UK) and (12) Jersey (UK),1.54
+172,Hungary,1.54
+173,Brazil,1.53
+174,Malta,1.51
+175,Canada,1.48
+176,Poland,1.47
+177,North Macedonia,1.46
+178,Thailand,1.46
+179,Ukraine,1.44
+180,Finland,1.42
+181,Serbia,1.42
+182,Croatia,1.41
+183 (13),Hong Kong (China),1.41
+184,Luxembourg,1.41
+185,Spain,1.39
+186,Saint Lucia,1.38
+187,Japan,1.37
+188,Mauritius,1.35
+189,Portugal,1.35
+190,United Arab Emirates,1.35
+191,Moldova,1.31
+192,Cyprus,1.30
+193,Italy,1.30
+194 (14),Macau (China),1.30
+195,Greece,1.26
+196,Singapore,1.24
+197,Bosnia and Herzegovina,1.22
+198 (15),Puerto Rico (US),1.18
+199,South Korea,1.08
+,Sovereign states: 184,
+,Dependent territories: 15,
+,World,
+,World,2.42
+,Continents,
+1,Africa,4.16
+2,Oceania,2.30
+3,Asia,2.09
+4,South America,1.87
+5,North America,1.76
+6,Europe,1.62
+,Major regions,
+1,Sub-Saharan Africa,4.40
+2,Oceania (excluding Australia and New Zealand),3.27
+3,Northern Africa and Western Asia,2.78
+4,Central and Southern Asia,2.29
+5,Latin America and the Caribbean,1.96
+6,Eastern and South-Eastern Asia,1.81
+7,Australia and New Zealand,1.80
+8,Northern America,1.76
+9,Europe and Northern America,1.67
+10,Europe,1.62
+,Major Subregions,
+1,Middle Africa,5.12
+2,Western Africa,4.85
+3,Eastern Africa,4.07
+4,Melanesia,3.33
+5,Northern Africa,3.07
+6,Micronesia,2.72
+7,Polynesia,2.65
+8,Central Asia,2.62
+9,Western Asia,2.52
+10,Southern Africa,2.38
+11,Southern Asia,2.28
+12,South-Eastern Asia,2.14
+13,Caribbean,2.11
+14,Central America,2.11
+15,South America,1.87
+16,Northern America,1.76
+17,Northern Europe,1.74
+18,Western Europe,1.70
+19,Eastern Europe,1.67
+20,Eastern Asia,1.66
+21,Southern Europe,1.36
+,UN Development Groups,
+1,Land-Locked Developing Countries (LLDC),3.68
+2,Less Developed Regions (excluding China),2.72
+3,Less Developed Regions,2.53
+3.1,- Least Developed Countries,3.74
+3.2,- Less Developed Regions (excluding Least Developed Countries),2.27
+4,Small Island Developing States (SIDS),2.37
+5,More Developed Countries,1.65
+,World Bank Income Groups,
+1,Low-income Countries,4.16
+2,Middle-income Countries,2.29
+3,Lower-middle-income Countries,2.60
+4,Upper-middle-income Countries,1.87
+5,High Income Countries,1.67
+6,No Income Group Available,2.38
+,Not ranked (no data or data from other years),
+1 (1),American Samoa (US),-
+2,Andorra,-
+3 (2),Bermuda (UK),-
+4,British Virgin Islands (UK),-
+5 (3),Cayman Islands (UK),-
+6,Dominica,-
+7 (4),Faroe Islands (Denmark),-
+8 (5),Gibraltar (UK),-
+9 (6),Greenland (Denmark),-
+10 (7),Isle of Man (UK),-
+11,Kosovo,-
+12,Liechtenstein,-
+13,Marshall Islands,-
+14,Monaco,-
+15,Nauru,-
+16 (8),Northern Mariana Islands (US),-
+17,Palau,-
+18,Saint Kitts and Nevis,-
+19 (9),Saint Martin (France) (French part),-
+20,San Marino,-
+21 (10),Sint Maarten (Netherlands) (Dutch part),-
+22,Turks and Caicos Islands,-
+23,Tuvalu,-
+24,Vatican City,-
+,Sovereign states: 14,
+,Dependent territories: 10,

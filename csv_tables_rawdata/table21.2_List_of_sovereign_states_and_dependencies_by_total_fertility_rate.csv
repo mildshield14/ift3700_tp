@@ -1,0 +1,263 @@
+Rank,Country,Total Fertility rate in 2021 (births/woman)
+1,Niger,6.82
+2,Somalia,6.31
+3,Chad,6.25
+4,DR Congo,6.16
+5,Central African Republic,5.98
+6,Mali,5.96
+7,Angola,5.30
+8,Nigeria,5.24
+9,Burundi,5.08
+10,Benin,4.97
+11,Burkina Faso,4.77
+12,Tanzania,4.73
+13,Gambia,4.68
+14,Mozambique,4.64
+15,Afghanistan,4.64
+16,Uganda,4.58
+17,South Sudan,4.47
+18,Cameroon,4.46
+19,Sudan,4.46
+20,Ivory Coast,4.42
+21,Guinea,4.40
+22,Mauritania,4.40
+23,Senegal,4.39
+24,Zambia,4.31
+25,Equatorial Guinea,4.27
+26,Togo,4.26
+27,Congo,4.17
+28,Ethiopia,4.16
+29,Liberia,4.09
+30,Guinea-Bissau,4.00
+31,Solomon Islands,3.98
+32,Sierra Leone,3.98
+33,Comoros,3.98
+34,Samoa,3.93
+35,Malawi,3.92
+36,Eritrea,3.87
+37,Madagascar,3.85
+38,São Tomé and Príncipe,3.82
+39,Rwanda,3.82
+40,Yemen,3.79
+41,Vanuatu,3.73
+42,Ghana,3.56
+43,Palestine,3.50
+44,Iraq,3.50
+45,Zimbabwe,3.49
+46,Gabon,3.49
+47,Pakistan,3.47
+48,Kenya,3.33
+49,Kazakhstan,3.32
+50,Kiribati,3.30
+51,Namibia,3.30
+52,Tonga,3.24
+53,Papua New Guinea,3.21
+54,Tajikistan,3.19
+55,Uzbekistan,3.17
+56,Tuvalu,3.16
+57,East Timor,3.15
+58,Lesotho,3.02
+59,Israel,3.00
+60,Egypt,2.92
+61,Kyrgyzstan,2.89
+62,Algeria,2.89
+63,Eswatini,2.84
+64,Mongolia,2.84
+65,Jordan,2.83
+66,Haiti,2.81
+67,Djibouti,2.80
+68,Botswana,2.79
+69,Philippines,2.75
+70,Syria,2.75
+71,Marshall Islands,2.73
+72,Micronesia,2.71
+73,Turkmenistan,2.67
+74,Oman,2.62
+75,Bolivia,2.62
+76 (1),Guam (US),2.57
+77,Laos,2.50
+78,Fiji,2.48
+79,Paraguay,2.47
+80,Libya,2.46
+81,Seychelles,2.46
+82,Saudi Arabia,2.43
+83 (2),Saint Martin (France) (French part),2.42
+84,Guyana,2.40
+85,Guatemala,2.40
+86,South Africa,2.37
+87,Honduras,2.36
+88,Suriname,2.35
+89,Cambodia,2.34
+90,Morocco,2.33
+91,Panama,2.33
+92,Nicaragua,2.32
+93 (3),Faroe Islands (Denmark),2.29
+94,Dominican Republic,2.27
+,World,2.27
+95,Venezuela,2.21
+96,Peru,2.19
+97,Indonesia,2.17
+98,Myanmar (Burma),2.15
+99,Kuwait,2.11
+,Population replacement,2.10
+100,Lebanon,2.09
+101,Tunisia,2.09
+102,Georgia,2.08
+103,India,2.03
+104,Nepal,2.03
+105,Ecuador,2.03
+106 (4),New Caledonia (France),2.02
+107 (5),U.S. Virgin Islands (US),2.01
+108,Belize,2.01
+109,Grenada,2.00
+110,Sri Lanka,1.99
+111,Bangladesh,1.98
+112,Vietnam,1.94
+113,Cape Verde,1.90
+114,Turkey,1.89
+115,Argentina,1.89
+116 (6),Gibraltar (UK),1.85
+117,Czech Republic,1.83
+118,France,1.83
+119,Mexico,1.82
+120,Iceland,1.82
+121,Bahrain,1.81
+122,North Korea,1.81
+123,Moldova,1.81
+124,Malaysia,1.80
+125,El Salvador,1.80
+126,Qatar,1.80
+127 (7),Greenland (Denmark),1.80
+128,Romania,1.80
+129,Saint Vincent and the Grenadines,1.80
+130,Brunei,1.78
+131,Montenegro,1.75
+132,Ireland,1.72
+133,Denmark,1.72
+134,Colombia,1.72
+135,Australia,1.70
+136 (8),French Polynesia (France),1.70
+137,Iran,1.69
+138,Maldives,1.69
+139,Sweden,1.67
+140 (9),Turks and Caicos Islands (UK),1.67
+141,United States,1.66
+142,Brazil,1.64
+143,Slovakia,1.64
+144,New Zealand,1.64
+145,Slovenia,1.64
+146,Barbados,1.63
+147,Trinidad and Tobago,1.63
+148,Netherlands,1.62
+149,Croatia,1.62
+150,Estonia,1.61
+151,North Macedonia,1.60
+152,Belgium,1.60
+153,Dominica,1.59
+154,Hungary,1.59
+155 10,Sint Maarten (Netherlands) (Dutch part),1.58
+156,Antigua and Barbuda,1.58
+157,Germany,1.58
+158,Bulgaria,1.58
+159,Armenia,1.57
+160,Latvia,1.57
+161 (11),Isle of Man (UK),1.56
+162,United Kingdom,1.56
+163,Norway,1.55
+164,Chile,1.54
+165,Costa Rica,1.53
+166,Saint Kitts and Nevis,1.53
+167,Liechtenstein,1.53
+168,Kosovo,1.52
+169,Switzerland,1.52
+170,Azerbaijan,1.52
+171,Uruguay,1.49
+172,Russia,1.49
+173,Belarus,1.48
+174,Austria,1.48
+175,Serbia,1.48
+176,United Arab Emirates,1.46
+177,Finland,1.46
+178,Channel Islands - (12) Guernsey (UK) and (13) Jersey (UK),1.46
+179,Cuba,1.44
+180,Canada,1.43
+181,Bhutan,1.41
+182,Mauritius,1.41
+183,Saint Lucia,1.40
+184,Albania,1.39
+185,Greece,1.39
+186,Bahamas,1.39
+187 (14),Curaçao (Netherlands),1.38
+188,Portugal,1.38
+189,Luxembourg,1.38
+190,Jamaica,1.35
+191,Bosnia and Herzegovina,1.35
+192,Lithuania,1.34
+193,Thailand,1.33
+194,Poland,1.33
+195,Cyprus,1.32
+196,Japan,1.30
+197 (15),Bermuda (UK),1.30
+198,Italy,1.25
+199,Spain,1.19
+200 (16),Aruba (Netherlands),1.18
+201,China,1.16
+202,Ukraine,1.16
+203,Malta,1.14
+204,Singapore,1.12
+205 (17),Macau (China),1.09
+206 (18),British Virgin Islands (UK),1.00
+207 (19),Puerto Rico (US),0.91
+208,South Korea,0.81
+209 (20),Hong Kong (China),0.77
+,Sovereign states: 190,
+,Dependent territories: 20,
+,World,2.27
+,Major regions,
+1,Sub-Saharan Africa (excluding high income),4.6
+2,Sub-Saharan Africa,4.6
+3,Arab world,3.1
+4,Middle East and North Africa (excluding high income),2.7
+5,Middle East and North Africa,2.6
+6,South Asia,2.2
+7,Latin America and Caribbean,1.9
+8,Latin America and Caribbean (excluding high income),1.9
+9,Europe and Central Asia (excluding high income),1.9
+10,Europe and Central Asia,1.7
+11,East Asia and Pacific (excluding high income),1.5
+12,East Asia and Pacific,1.5
+13,North America,1.6
+14,Central Europe and the Baltics,1.6
+,States’ size,
+1,Pacific Island small states,3.2
+2,Other small states,2.9
+3,Small states,2.7
+4,Caribbean small states,1.7
+,International organizations,
+1,OECD members,1.6
+2,European Union,1.5
+,Security situation,
+1,Fragile and conflict affected situations,4.4
+,Economic areas,
+1,Euro area,1.5
+,Economic situation,
+1,Heavily indebted poor countries (HIPC),4.6
+2,Least developed countries: UN classification,4.0
+,Income,
+1,Low income countries,4.6
+2,Lower middle income countries,2.6
+3,Low and middle income countries,2.4
+4,Middle income countries,2.1
+5,Upper middle income countries,1.6
+6,High income countries,1.5
+,Not ranked (no data or data from other years),
+1,American Samoa (US),-
+2,Andorra,1.3 (2010)
+3,Cayman Islands (UK),-
+4,Monaco,
+5,Nauru,-
+6,Northern Mariana Islands (US),-
+7,Palau,0.85 (2020)
+8,San Marino,1.3 (2012)
+9,Vatican City,-
+10,Western Sahara,-

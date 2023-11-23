@@ -1,0 +1,220 @@
+Rank,Country,Fertility rate in 2014 (births/woman)
+1,Niger,7.6
+2,South Sudan,7.0
+3,Somalia,6.6
+4,DR Congo,6.6
+5,Chad,6.6
+6,Angola,6.2
+7,Central African Republic,6.2
+8,Burundi,6.1
+9,Mali,6.1
+10,Zambia,6.0
+11,Burkina Faso,5.9
+12,Uganda,5.9
+13,Mozambique,5.7
+14,East Timor,5.7
+15,Gambia,5.6
+16,Nigeria,5.6
+17,Malawi,5.5
+18,Senegal,5.3
+19,Tanzania,5.3
+20,Sudan,5.2
+21,Guinea,5.1
+22,Cameroon,5.1
+23,Afghanistan,5.1
+24,Congo,5.0
+25,Guinea-Bissau,5.0
+26,Benin,4.9
+27,Ivory Coast,4.9
+28,Sierra Leone,4.9
+29,Equatorial Guinea,4.9
+30,Eritrea,4.7
+31,Liberia,4.7
+32,Togo,4.7
+33,Samoa,4.7
+34,Vanuatu,4.4
+35,Yemen,4.4
+36,Madagascar,4.4
+37,Kenya,4.3
+38,São Tomé and Príncipe,4.3
+39,Ghana,4.3
+40,Comoros,4.3
+41,Papua New Guinea,4.3
+42,Nauru,4.3
+43,Mauritania,4.1
+44,Solomon Islands,4.1
+45,Gabon,4.1
+46,Marshall Islands,4.1
+47 (1),Mayotte (France),4.1
+48,Palestine,4.1
+49,Iraq,4.1
+50,Ethiopia,4.1
+51,Rwanda,4.0
+52,Tonga,3.9
+53,Kiribati,3.8
+54,Tajikistan,3.8
+55,Pakistan,3.8
+56,Guatemala,3.8
+57,Zimbabwe,3.8
+58,Namibia,3.6
+59 (2),French Guiana (France),3.5
+60,Micronesia,3.5
+61,Jordan,3.5
+62,Egypt,3.5
+63,Haiti,3.4
+64,Swaziland,3.4
+65,Djibouti,3.4
+66,Lesotho,3.3
+67,Bolivia,3.2
+68,Laos,3.2
+69,Tuvalu,3.2
+70,Kyrgyzstan,3.2
+71 (3),Guam (US),3.1
+72,Israel,3.0
+73,Syria,3.0
+74,Philippines,3.0
+75,Mongolia,2.9
+76,Saudi Arabia,2.9
+77,Algeria,2.9
+78,Ecuador,2.8
+79,Paraguay,2.8
+80,Honduras,2.8
+81,Cambodia,2.8
+82,Oman,2.8
+83,Kazakhstan,2.7
+84,Morocco,2.6
+85,Suriname,2.6
+86,Indonesia,2.6
+87,Belize,2.6
+88,Botswana,2.6
+89,Cape Verde,2.6
+90,Fiji,2.5
+91,Dominican Republic,2.5
+92,Bhutan,2.5
+93,Guyana,2.5
+94,Panama,2.5
+95,Nicaragua,2.5
+,World,2.5
+96,India,2.4
+97,Uzbekistan,2.4
+98,Libya,2.4
+99,Kuwait,2.4
+100,Nepal,2.4
+101,Venezuela,2.4
+102,Western Sahara,2.4
+103,Turkmenistan,2.4
+104,Seychelles,2.4
+105 (4),Réunion (France),2.4
+106,Peru,2.4
+107,Maldives,2.3
+108,South Africa,2.3
+109,Jamaica,2.3
+110,Argentina,2.3
+111,Colombia,2.3
+112 (5),Curaçao (Netherlands),2.2
+113,Tunisia,2.2
+114 (6),New Caledonia (France),2.2
+115,Bangladesh,2.2
+116,Mexico,2.2
+117,Saint Vincent and the Grenadines,2.2
+118 (7),Guadeloupe (France),2.2
+119,Azerbaijan,2.2
+120,El Salvador,2.2
+121,Sri Lanka,2.1
+122,Malaysia,2.1
+123,Bahrain,2.1
+124 (8),French Polynesia (France),2.1
+125,Turkey,2.1
+126,Vietnam,2.1
+127,Qatar,2.1
+,Population replacement,2.1
+128,New Zealand,2.0
+129,Ireland,2.0
+130,Myanmar (Burma),2.0
+131,Uruguay,2.0
+132,North Korea,2.0
+133,Dominica,2.0
+134,France,2.0
+135,Bahamas,2.0
+136,Kosovo,2.0
+137,Grenada,2.0
+138,Sweden,1.9
+139 (9),Martinique (France),1.9
+140,Australia,1.9
+141,United Kingdom,1.9
+142,Chile,1.9
+143,Iceland,1.9
+144,United States,1.9
+145,Norway,1.8
+146,Finland,1.8
+147,Belgium,1.8
+148,Barbados,1.8
+149,Costa Rica,1.8
+150,United Arab Emirates,1.8
+151,Antigua and Barbuda,1.8
+152,Iran,1.8
+153,Thailand,1.8
+154,Albania,1.8
+155,Montenegro,1.7
+156,Netherlands,1.7
+157,Georgia,1.7
+158,Belarus,1.7
+159,Palau,1.7
+160,Brazil,1.7
+161,Denmark,1.7
+162,Channel Islands - (10) Guernsey and (11) Jersey (UK),1.7
+163,Russia,1.7
+164,Cuba,1.7
+165 (12),Puerto Rico (US),1.6
+166,Croatia,1.6
+167,Saint Kitts and Nevis,1.6
+168,Trinidad and Tobago,1.6
+169,Canada,1.6
+170,China (mainland only),1.6
+171,Brunei,1.6
+172,Lithuania,1.6
+173,Luxembourg,1.6
+174,Armenia,1.6
+-,European Union,1.6
+175,North Macedonia,1.5
+176,San Marino,1.5
+177,Slovenia,1.5
+178,Ukraine,1.5
+179,Latvia,1.5
+180,Estonia,1.5
+181,Liechtenstein,1.5
+182,Bulgaria,1.5
+183,Czech Republic,1.5
+184,Switzerland,1.5
+185,Saint Lucia,1.5
+186,Lebanon,1.5
+187,Cyprus,1.5
+188,Mauritius,1.4
+189,Japan,1.4
+190,Austria,1.4
+191,Germany,1.4
+192,Monaco,1.4
+193,Malta,1.4
+194,Serbia,1.4
+195,Italy,1.4
+196,Slovakia,1.3
+197,Greece,1.3
+198,Bosnia and Herzegovina,1.3
+199,Romania,1.3
+200,Hungary,1.3
+201,Spain,1.3
+202,Portugal,1.2
+203,Singapore,1.2
+204,Poland,1.2
+205 (13),Macau (China),1.2
+206,South Korea,1.2
+207,Moldova,1.2
+208 (14),Hong Kong (China),1.1
+209,Andorra,1.1
+210,Republic of China (Taiwan),1.1
+,Sovereign states: 196,
+,Dependent territories: 14,
+,Not ranked (no data or data from other years),
+1,Vatican City,-
+,Sovereign states: 1,
+,Dependent territories: 0,

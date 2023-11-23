@@ -1,0 +1,228 @@
+Rank,Country,Fertility rate in 2015 (births/woman)
+1,Niger,7.29
+2,Somalia,6.37
+3,DR Congo,6.20
+4,Mali,6.14
+5,Chad,6.05
+6,Angola,5.77
+7,Burundi,5.78
+8,Uganda,5.68
+9,East Timor,5.62
+10,Nigeria,5.59
+11,Gambia,5.49
+12,Burkina Faso,5.44
+13,Mozambique,5.30
+14,Tanzania,5.08
+15,Benin,5.05
+16,Zambia,5.04
+17,Ivory Coast,4.98
+18,Central African Republic,4.94
+19,South Sudan,4.94
+20,Guinea,4.93
+21,Senegal,4.84
+22,Afghanistan,4.80
+23,Equatorial Guinea,4.78
+24,Cameroon,4.78
+25,Mauritania,4.74
+26,Congo,4.72
+27,Guinea-Bissau,4.71
+28,Malawi,4.65
+29,Liberia,4.65
+30,Sudan,4.59
+31,Sierra Leone,4.56
+32,São Tomé and Príncipe,4.52
+33,Togo,4.52
+34,Iraq,4.43
+35,Comoros,4.42
+36,Ethiopia,4.32
+37,Madagascar,4.24
+38,Eritrea,4.21
+39,Yemen,4.10
+40,Palestine (Gaza Strip and West Bank),4.08
+41,Ghana,4.04
+42,Samoa,4.03
+43,Rwanda,3.97
+44,Kenya,3.92
+45,Solomon Islands,3.91
+46,Gabon,3.85
+47,Zimbabwe,3.84
+48,Papua New Guinea,3.71
+49,Kiribati,3.69
+50,Tonga,3.68
+51,Pakistan,3.55
+52,Namibia,3.47
+53,Jordan,3.44
+54,Tajikistan,3.40
+55,Egypt,3.31
+56,Vanuatu,3.31
+57,Micronesia,3.20
+58,Swaziland,3.14
+59,Lesotho,3.14
+60,Kyrgyzstan,3.05
+61,Guatemala,3.03
+62,Israel,3.00
+63,Haiti,2.97
+64,Syria,2.97
+65,Philippines,2.96
+66,Turkmenistan,2.93
+67,Bolivia,2.92
+68,Djibouti,2.91
+69,Algeria,2.84
+70,Mongolia,2.79
+71,Botswana,2.77
+72,Laos,2.76
+73,Oman,2.74
+74,Kazakhstan,2.66
+75,Cambodia,2.59
+76,Saudi Arabia,2.58
+77,Belize,2.54
+78,Fiji,2.54
+79,Panama,2.54
+80,Guyana,2.53
+81,Morocco,2.53
+82,Ecuador,2.51
+83,Paraguay,2.51
+84,Honduras,2.51
+85,South Africa,2.48
+86,Dominican Republic,2.45
+,World,2.45
+87,Peru,2.43
+88,Suriname,2.40
+89,Indonesia,2.39
+90,Cape Verde,2.37
+91 (1),Guam (US),2.37
+92,India,2.35
+93,Venezuela,2.34
+94,Uzbekistan,2.31
+95,Libya,2.31
+96,Argentina,2.31
+97,Seychelles,2.30
+98,Nicaragua,2.23
+99,Myanmar (Burma),2.23
+100,Tunisia,2.22
+101,Mexico,2.21
+102 (2),New Caledonia (France),2.19
+103,Nepal,2.16
+104,Bangladesh,2.13
+105,Grenada,2.13
+106,Maldives,2.13
+107,El Salvador,2.10
+,Population replacement,2.10
+108,Bhutan,2.09
+109,Azerbaijan,2.09
+110,Turkey,2.07
+111,Antigua and Barbuda,2.06
+112,Sri Lanka,2.06
+113,Bahrain,2.06
+114,Malaysia,2.06
+115,Jamaica,2.03
+116,Uruguay,2.01
+117,Georgia,2.00
+118 (3),Greenland (Denmark),2.00
+119 (4),French Polynesia (France),2.00
+120,New Zealand,2.00
+121,Kuwait,1.99
+122,Ireland,1.99
+123,France,1.98
+124,Vietnam,1.96
+125,Saint Vincent and the Grenadines,1.95
+126,Iceland,1.95
+127,Qatar,1.93
+128,North Korea,1.92
+129,Sweden,1.91
+130 (5),Curaçao (Netherlands),1.90
+131,Brunei,1.88
+132,United Kingdom,1.88
+133,Colombia,1.87
+134,United States,1.87
+135,Australia,1.86
+136,Norway,1.82
+137,Costa Rica,1.80
+138,Barbados,1.80
+139,Belgium,1.79
+140,Chile,1.78
+141,Bahamas,1.78
+142,Trinidad and Tobago,1.77
+143,Finland,1.77
+144,United Arab Emirates,1.76
+145,Denmark,1.73
+146,Russia,1.73
+147,Netherlands,1.73
+148 (6),U.S. Virgin Islands (US),1.72
+149,Lebanon,1.72
+150,Cuba,1.72
+151,Brazil,1.72
+152,Albania,1.71
+153,Belarus,1.69
+154,Iran,1.69
+155,Montenegro,1.68
+156,Lithuania,1.64
+157,Armenia,1.62
+158,Estonia,1.62
+159,China,1.62
+160,Slovenia,1.61
+161 (7),Aruba (Netherlands),1.60
+162,Canada,1.59
+163,Switzerland,1.54
+164,Bulgaria,1.54
+165,Latvia,1.53
+166,Ukraine,1.53
+167,Czech Republic,1.52
+168,North Macedonia,1.52
+169,Romania,1.51
+170,Luxembourg,1.50
+171,Channel Islands - (8) Guernsey (UK) and (9) Jersey (UK),1.50
+172,Thailand,1.50
+173,Austria,1.48
+174,Saint Lucia,1.47
+175,Serbia,1.46
+176,Croatia,1.46
+177,Italy,1.46
+178,Germany,1.45
+179,Japan,1.44
+180,Slovakia,1.43
+181 (10),Puerto Rico (US),1.43
+182,Malta,1.42
+183,Hungary,1.36
+184,Mauritius,1.36
+185,Spain,1.35
+186,Cyprus,1.35
+187,Bosnia and Herzegovina,1.34
+188,Poland,1.31
+189,Greece,1.31
+190,South Korea,1.28
+191,Moldova,1.25
+192,Portugal,1.25
+193,Singapore,1.24
+194 (11),Macau (China),1.20
+195 (12),Hong Kong (China),1.20
+,Sovereign states: 183,
+,Dependent territories: 12,
+,World,
+,World,2.45
+,Not ranked (no data or data from other years),
+1 (1),American Samoa (US),-
+2,Andorra,-
+3 (2),Bermuda (UK),-
+4 (3),Cayman Islands (UK),-
+5,Dominica,-
+6 (4),Faroe Islands (Denmark),-
+7 (5),French Guiana (France),-
+8 (6),Guadeloupe (France),-
+9 (7),Isle of Man (UK),-
+10,Kosovo,-
+11,Liechtenstein,-
+12,Marshall Islands,-
+13 (8),Mayotte (France),-
+14,Monaco,-
+15 (9),Northern Mariana Islands (US),-
+16,Palau,-
+17,San Marino,-
+18 (10),Saint Martin (French part),-
+19 (11),Sint Maarten (Dutch part),-
+20,Saint Kitts and Nevis,-
+21 (12),Turks and Caicos Islands UK),-
+22,Tuvalu,-
+23,Vatican City,-
+,Sovereign states: 11,
+,Dependent territories: 12,

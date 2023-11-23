@@ -1,0 +1,234 @@
+Rank,Country,Fertility rate in 1950 (births/woman)
+1,Iraq,8.11
+2 (1),"Rwanda (Belgian overseas colonies, Ruanda-Urundi → United Nations trust territories → Rwanda)",7.92
+3 (2),New Hebrides (British and French Condominium → Vanuatu),7.68
+4 (3),"Samoa (United Nations trust territories, Western Samoa → Samoa)",7.63
+5,Jordan,7.56
+6,Dominican Republic,7.51
+7,Honduras,7.47
+8,Afghanistan,7.45
+9,Philippines,7.45
+10 (4),"Ivory Coast (French Colonial Empire, French West Africa, French Ivory Coast → Ivory Coast",7.38
+11,Yemen ( North Yemen and South Yemen → Yemen),7.37
+12 (5),"Kenya (British Empire, Kenya Colony → Kenya)",7.36
+13,Ethiopia,7.35
+14 (6),"Angola (Portuguese Empire, Portuguese Angola → Angola)",7.34
+15 (7),Saint Vincent and the Grenadines (British Empire → Saint Vincent and the Grenadines),7.33
+16 (8),"Madagascar (French Colonial Empire, French Madagascar → Madagascar)",7.30
+17 (9),"Tonga (British Empire, British Protectorate → Tonga)",7.30
+18 (10),"Algeria (French Colonial Empire, French Algeria → Algeria)",7.29
+19 (11),"Niger (French Colonial Empire, French Niger → Niger)",7.26
+20 (12),"Somalia (British Empire, British Somaliland and Trust Territory of Somaliland → Somalia)",7.25
+21,Oman,7.25
+22 (13),"Kuwait (British Empire, British Protectorate → Kuwait)",7.22
+23,Saudi Arabia,7.20
+24 (14),Micronesia (Trust Territory of the Pacific Islands → Micronesia),7.20
+25,Syria,7.18
+26,Guatemala,7.15
+27,Libya,7.10
+28 (15),"Qatar (British Empire, British Protectorate → Qatar)",6.97
+29 (16),Bahrain (British Empire → Bahrain),6.97
+30 (17),"Mozambique (Portuguese Empire, Portuguese Mozambique → Mozambique)",6.97
+31 (18),"Mali (French Colonial Empire, French West Africa, French Sudan → Mali)",6.96
+32,Peru,6.95
+33 (19),"Cambodia (French Colonial Empire, French Indochina, French Cambodia → Cambodia)",6.95
+34 (20),"United Arab Emirates (British Empire, Trucial States → United Arab Emirates)",6.94
+35,Bolivia,6.93
+36,Iran,6.92
+37 (21),Eritrea ( Ethiopia → Eritrea),6.92
+38,Republic of China (Taiwan),6.90
+39 (22),Uganda (British Empire → Uganda),6.89
+40,Nicaragua,6.88
+41 (23),"Brunei (British Empire, British Protectorate → Brunei)",6.86
+42 (24),"Malawi (British Empire, Federation of Rhodesia and Nyasaland, Nyasaland Protectorate → Malawi)",6.84
+43 (25),"Burundi (Belgian overseas colonies, Ruanda-Urundi → United Nations trust territories → Burundi)",6.82
+44 (26),"Senegal (French Colonial Empire, French West Africa, French Senegal → Senegal)",6.79
+45,Colombia,6.77
+46 (27),"Southern Rhodesia (British Empire, Federation of Rhodesia and Nyasaland → Zimbabwe)",6.75
+47,Turkey,6.74
+48,Mexico,6.72
+49,Ecuador,6.72
+50,Egypt,6.72
+51 (28),Swaziland (British Empire → Swaziland),6.71
+52 (29),"Tanzania (British Empire, Tanganyika and Zanzibar → Tanzania)",6.70
+53,Belize,6.69
+54 (30),"Sudan (British Empire, Anglo-Egyptian Sudan → Sudan)",6.68
+55,Bhutan,6.67
+56,China,6.67
+57 (31),"South Sudan (British Empire, Anglo-Egyptian Sudan → Sudan → South Sudan)",6.63
+58 (32),"Northern Rhodesia (British Empire, Federation of Rhodesia and Nyasaland → Zambia)",6.62
+59 (33),"Singapore (British Empire, British Singapore → Singapore)",6.61
+60,Pakistan,6.60
+61 (34),Suriname (Kingdom of the Netherlands → Suriname),6.58
+62 (35),"Cape Verde (Portuguese Empire, Portuguese Cape Verde → Cape Verde)",6.57
+63 (36),"Tunisia (French Colonial Empire, French protectorate of Tunisia → Tunisia)",6.56
+64,Venezuela,6.54
+65 (37),"East Timor (Portuguese Empire, Portuguese Timor → East Timor)",6.51
+66 (38),Morocco,6.49
+67,Paraguay,6.49
+68 (39),"Botswana (British Empire, Bechuanaland Protectorate → Botswana)",6.47
+69 (40),Solomon Islands (British Empire → Solomon Islands),6.40
+70 (41),"Ghana (British Empire, Gold Coast (British colony) → Ghana)",6.37
+71,"Nigeria (British Empire, British Nigeria → Nigeria",6.36
+72 (42),"Malaysia (British Empire, British Malaya and British Borneo → Malaysia)",6.36
+73 (43),"Togo (United Nations trust territories, French Colonial Empire, French West Africa, French Togoland → Togo)",6.33
+74,Haiti,6.31
+75 (44),"Djibouti (French Colonial Empire, French Somaliland → Djibouti)",6.30
+76 (45),Fiji (British Empire → Fiji),6.30
+77,Liberia,6.25
+78,El Salvador,6.24
+79 (46),"Bangladesh (Pakistan, East Pakistan → Bangladesh)",6.23
+80 (47),Papua and New Guinea (United Nations trust territories → Papua New Guinea,6.23
+81 (48),"São Tomé and Príncipe (Portuguese Empire, Portuguese Sao Tome and Principe → São Tomé and Príncipe)",6.20
+82,Brazil,6.14
+83,Thailand,6.13
+84 (49),"Mauritania (French Colonial Empire, French West Africa, French Mauritania → Mauritania",6.12
+85 (50),"Kiribati (British Empire, Gilbert and Ellice Islands → Kiribati )",6.10
+86 (51),Sierra Leone (British Empire → Sierra Leone),6.09
+87 (52),"Chad (French Colonial Empire, French Equatorial Africa, French Chad → Chad)",6.06
+88 (53),Greenland (Denmark),6.05
+89,South Africa,6.04
+90 (54),"Maldives (British Empire, British Protectorate → Maldives)",6.03
+91 (55),"Burkina Faso (French Colonial Empire, French West Africa → Republic of Upper Volta → Burkina Faso)",6.03
+92,Burma (→ Myanmar),6.03
+93 (56),"Saint Lucia (British Empire, West Indies Federation → Saint Lucia)",6.00
+94 (57),Comoros (French Colonial Empire → Comoros),6.00
+95 (58),French Polynesia (French Colonial Empire → France),6.00
+96 (59),"Congo (Belgian Colonial Empire, Belgian Congo → Congo-Léopoldville → Zaire → DR Congo)",5.99
+97 (60),"Guinea (French Colonial Empire, French West Africa, French Guinea → Guinea",5.97
+98 (61),South West Africa ( South Africa → Namibia),5.96
+99,Nepal,5.96
+100,Albania,5.96
+101,"Laos (French Colonial Empire, French Indochina, French Laos → Laos)",5.94
+102 (62),"Guinea-Bissau (Portuguese Empire, Portuguese Guinea → Guinea-Bissau)",5.92
+103,India,5.91
+104 (63),Mauritius (British Empire → Mauritius),5.90
+105 (64),Lesotho (British Empire → Lesotho),5.81
+106 (65),Grenada (British Empire → Grenada),5.80
+107,Lebanon,5.76
+108 (66),"Dahomey (French Colonial Empire, French West Africa → Dahomey → Benin)",5.75
+109 (67),Guyana (British Empire → Guyana),5.69
+110,Panama,5.68
+111 (68),"Equatorial Guinea (Spanish Empire, Spanish Guinea → Equatorial Guinea)",5.68
+112 (69),"Congo (French Colonial Empire, French Congo, French Equatorial Africa → Congo)",5.67
+113,Costa Rica,5.65
+114 (70),Aruba (Netherlands),5.65
+115,Sri Lanka,5.64
+116 (71),"Cameroon (United Nations Trust Territories, French Colonial Empire, French Equatorial Africa, French Cameroons → Cameroon)",5.54
+117 (72),SR Macedonia ( Yugoslavia → North Macedonia),5.52
+118,Mongolia,5.50
+119 (73),"Central African Republic (French Colonial Empire, French Equatorial Africa, Ubangi-Shari → Central African Republic)",5.40
+120,Indonesia,5.35
+121 (74),Bosnia and Herzegovina ( Yugoslavia → Bosnia and Herzegovina),5.32
+122 (75),"Trinidad and Tobago (British Empire, West Indies Federation → Trinidad and Tobago)",5.28
+123 (76),U.S. Virgin Islands (US),5.25
+124 (77),"Gambia (British Empire, Gambia Colony and Protectorate → Gambia)",5.23
+125 (78),New Caledonia (French colonial Empire → France),5.22
+126 (79),Uzbek SSR ( Soviet Union → Uzbekistan),5.08
+127 (80),French Guiana (French Colonial Empire → France),5.08
+128,Chile,5.08
+129 (81),Azerbaijan SSR ( Soviet Union → Azerbaijan),5.07
+130 (82),Tajik SSR ( Soviet Union → Tajikistan),5.04
+131,South Korea,5.02
+132 (83),Puerto Rico (US),4.97
+,World,4.96
+133 (84),"Vietnam (French Colonial Empire, French Indochina, French Vietnam → North Vietnam and South Vietnam → Vietnam)",4.96
+134 (85),Turkmen SSR ( Soviet Union → Turkmenistan),4.89
+135,Cuba,4.76
+136 (86),Montenegro ( Yugoslavia → Montenegro),4.62
+137,Israel,4.52
+138 (87),Antigua and Barbuda (British Empire → Antigua and Barbuda),4.50
+139 (88),"Hong Kong (British Empire, Hong Kong colony → China, Special administrative regions of China)",4.44
+140 (89),Barbados (British Empire → Barbados),4.42
+141 (90),"Macau (Portuguese Empire, Portuguese Macau → China, Special administrative regions of China)",4.39
+142 (91),Kazakh SSR ( Soviet Union → Kazakhstan),4.30
+143 (92),Malta (British Empire → Malta),4.14
+144 (93),Armenian SSR ( Soviet Union → Armenia ),4.13
+145 (94),Bahamas (British Empire → Bahamas),3.98
+146 (95),"Gabon (French Colonial Empire, French Congo, French Equatorial Africa → Gabon",3.95
+147 (96),Kirghiz SSR ( Soviet Union → Kyrgyzstan),3.92
+148 (97),"Cyprus (British Empire, British Cyprus → Cyprus)",3.85
+149 (98),"Jamaica (British Empire, Colony of Jamaica → Jamaica)",3.80
+150,Iceland,3.62
+151 (99),Slovak Socialist Republic,3.59
+152,Poland,3.53
+153 (100),SR Serbia ( Yugoslavia → Serbia and Montenegro → Serbia),3.53
+154,Canada,3.47
+155,Ireland,3.47
+156 (101),Moldavian SSR ( Soviet Union → Moldova),3.47
+157,Japan,3.44
+158,New Zealand,3.38
+159,Argentina,3.16
+160,Finland,3.13
+161,Portugal,3.10
+162,United States,3.05
+163,Netherlands,3.05
+164,Romania,3.05
+165,Australia,3.01
+166 (102),Czech Socialist Republic,2.94
+167 (103),SR Croatia ( Yugoslavia → Croatia),2.92
+168 (104),Lithuanian SSR ( Soviet Union → Lithuania),2.90
+169 (105),SR Slovenia ( Yugoslavia → Slovenia),2.87
+170,France,2.83
+171 (106),Russian SFSR ( Soviet Union → Russia),2.81
+172,Hungary,2.77
+173 (107),Ukrainian SSR ( Soviet Union → Ukraine),2.72
+174,Uruguay,2.69
+175,Bulgaria,2.66
+176 (108),Georgian SSR ( Soviet Union → Georgia),2.65
+177,Denmark,2.58
+178,Italy,2.50
+179 (109),Byelorussian SSR ( Soviet Union → Belarus),2.50
+180,Greece,2.47
+181,Norway,2.46
+182,Spain,2.45
+183,Belgium,2.33
+184,Switzerland,2.33
+185,Sweden,2.25
+,Population replacement,2.10
+186 (110),Estonian SSR ( Soviet Union → Estonia),2.09
+187,Germany ( West Germany and East Germany → Germany),2.09
+188,United Kingdom,2.08
+189,Channel Islands - (111) Guernsey (UK) and (112) Jersey (UK),2.06
+190 (113),Latvian SSR ( Soviet Union → Latvia),2.01
+191,North Korea,1.95
+192,Austria,1.87
+193,Luxembourg,1.87
+,Sovereign states: 80,
+,Dependent territories: 113,
+,World,
+,World,4.96
+,Not ranked (no data or data from other years),
+1 (1),American Samoa (US),-
+2,Andorra,-
+3 (2),Bermuda (UK),-
+4 (3),Cayman Islands (UK),-
+5 (4),Curaçao (Netherlands),-
+6,Czechoslovakia (Dissolved in 1992),-
+7 (5),Dominica (British Colonial Empire → Dominica),-
+8 (6),Faroe Islands (Denmark),-
+9 (7),Gibraltar (UK),-
+10 (8),Guadeloupe (French Colonial Empire → France),-
+11 (9),Guam (US),-
+12 (10),Isle of Man (UK),-
+13 (11),SAP Kosovo ( Yugoslavia → Serbia and Montenegro → Serbia → Kosovo),-
+14,Liechtenstein,-
+15 (12),Marshall Islands (Trust Territory of the Pacific Islands → Marshall Islands),-
+16 (13),Mayotte (French Colonial Empire → France),-
+17,Monaco,-
+18,Nauru,-
+19 (14),Northern Mariana Islands (US),-
+20 (15),Palau (Trust Territory of the Pacific Islands → Palau),-
+21 (16),"Palestine (Jordan, West Bank and Egypt, Gaza Strip → Israeli occupied territories → Palestinian territories)",-
+22,San Marino,-
+23 (17),"Seychelles (British Colonial Empire, Crown colony → Seychelles)",-
+24 (18),Saint Martin (French part),-
+25 (19),Sint Maarten (Dutch part),-
+26 (20),Saint Kitts and Nevis (British Colonial Empire → Saint Kitts and Nevis),-
+27,Soviet Union (dissolved in 1991),-
+28 (21),Turks and Caicos Islands (British Colonial Empire → UK),-
+29 (22),"Tuvalu (British Empire, Gilbert and Ellice Islands → Ellice Islands → Tuvalu)",-
+30,Vatican City,-
+31,Yugoslavia (dissolved in 1992),-
+,Sovereign states: 9,
+,Dependent territories: 22,

@@ -1,0 +1,9 @@
+Rank,Region,Countries,Authoritarian,Hybrid regime,Flawed democracy,Full democracy,Average score
+1.0,North America,2,0,0,1,1,8.37
+2.0,Western Europe,21,0,1,6,14,8.36
+3.0,Latin America and the Caribbean,24,4,8,9,3,5.79
+4.0,Asia and Australasia,28,7,7,9,5,5.46
+5.0,Central and Eastern Europe,28,8,4,16,0,5.39
+6.0,Sub-Saharan Africa,44,23,14,6,1,4.14
+7.0,Middle East and North Africa,20,17,2,1,0,3.34
+,World,167,59,36,48,24,5.29
