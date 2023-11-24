@@ -36,10 +36,15 @@ for url in urls:
         df = pd.read_html(str(table), header=0)[0]  # Assuming headers are in the first row
         dfs_per_page.append(df)
 
+        # Create a folder for each page if it doesn't exist
+        page_folder = f'csv_rawdata/{count}.{page_title}'
+        os.makedirs(page_folder, exist_ok=True)
+
         # Write each DataFrame to a separate CSV file
-        filename = f'table{count}.{i + 1}_{page_title}.csv'
+        filename = f'{page_folder}/{count}.{i + 1} table.csv'
         with open(filename, 'w', newline='') as file:
             df.to_csv(file, index=False)
+
 
     # Increment the counter
     count += 1
