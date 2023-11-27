@@ -17,7 +17,7 @@ def process_folder(folder_path, output_file):
                     second_column_data = df.iloc[:, 1]
 
                     # Create a DataFrame with "Country" and the second column data
-                    result_df = pd.DataFrame({"Country": country_column, f"{second_column_label}_Data": second_column_data})
+                    result_df = pd.DataFrame({"Country": country_column, f"{second_column_label}": second_column_data})
 
                     # Merge with the existing data using "Country" as the key
                     all_data = pd.merge(all_data, result_df, on="Country", how="outer")
