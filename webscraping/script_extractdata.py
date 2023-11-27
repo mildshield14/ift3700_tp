@@ -36,6 +36,11 @@ for url in urls:
         df = pd.read_html(str(table), header=0)[0]  # Assuming headers are in the first row
         dfs_per_page.append(df)
 
+
+        # Create a folder for each page if it doesn't exist in another folder (for duplicated columns)
+        page_folder = f'csv_duplicated_columns/{count}.{page_title}'
+        os.makedirs(page_folder, exist_ok=True)
+        
         # Create a folder for each page if it doesn't exist
         page_folder = f'csv_rawdata/{count}.{page_title}'
         os.makedirs(page_folder, exist_ok=True)
