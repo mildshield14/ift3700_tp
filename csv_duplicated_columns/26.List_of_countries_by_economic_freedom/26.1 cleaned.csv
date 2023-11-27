@@ -1,4 +1,4 @@
-Country,Score
+Country,Economic Freedom Score(26)
 Hong Kong,90.2
 Singapore,89.4
 New Zealand,84.4
@@ -76,7 +76,7 @@ Bhutan,62.9
 Morocco,62.9
 The Bahamas,62.9
 Guatemala,62.6
-Cte dIvoire,62.4
+Ivory Coast,62.4
 Kyrgyz Republic,62.3
 Italy,62.2
 Fiji,62.2
@@ -155,7 +155,7 @@ Malawi,51.4
 Lebanon,51.1
 Iran,51.1
 Angola,50.6
-Democratic Republic of Congo,50.3
+Democratic Republic of the Congo,50.3
 Togo,50.3
 Chad,49.9
 Liberia,49.7
@@ -174,7 +174,7 @@ TimorLeste,44.2
 Bolivia,42.3
 Equatorial Guinea,41.0
 Zimbabwe,40.4
-Republic of Congo,39.7
+Republic of the Congo,39.7
 Eritrea,38.9
 Cuba,27.8
 Venezuela,25.9

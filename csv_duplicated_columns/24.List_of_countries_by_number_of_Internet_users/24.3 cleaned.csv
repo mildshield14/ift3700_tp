@@ -1,4 +1,4 @@
-Country,Pct
+Country,Internet users Pct (24)
 China,76.4
 India,62.6
 United States,92.4
@@ -48,7 +48,7 @@ Kazakhstan,72.5
 Romania,64.9
 Sudan,27.4
 Ghana,45.9
-Cte dIvoire,38.8
+Ivory Coast,38.8
 Uganda,22.2
 Belgium,86.3
 Sweden,91.3
@@ -69,7 +69,7 @@ Democratic Republic of the Congo,7.3
 Dominican Republic,62.9
 Guatemala,66.7
 Israel,76.3
-Hong Kong China,93.0
+Hong Kong,93.0
 Jordan,58.1
 Tunisia,64.6
 Syria,29.3
@@ -102,7 +102,7 @@ Moldova,100.7
 Burkina Faso,13.8
 Honduras,29.0
 Croatia,69.2
-Puerto Rico US,81.8
+Puerto Rico,81.8
 Rwanda,19.7
 Malawi,12.9
 Qatar,94.2
@@ -149,8 +149,8 @@ Lesotho,29.2
 Burundi,4.8
 Luxembourg,89.3
 Djibouti,48.2
-Macau China,90.2
-Congo,7.8
+Macau,90.2
+Republic of the Congo,7.8
 Fiji,48.9
 Montenegro,80.4
 Gambia,15.8
@@ -174,7 +174,7 @@ French Polynesia,67.7
 Central African Republic,3.7
 Belize,44.1
 Guam,77.5
-Aruba Netherlands,96.0
+Aruba,96.0
 Saint Lucia,50.6
 Antigua and Barbuda,83.2
 Andorra,96.3

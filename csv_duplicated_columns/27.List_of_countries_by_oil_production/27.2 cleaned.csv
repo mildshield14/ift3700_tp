@@ -1,26 +1,26 @@
-Country,Oil production April 2022
+Country,Oil production April 2022(27)
 United States,11884154
-Saudi Arabia OPEC,10644394
+Saudi Arabia,10644394
 Russia,10278370
 Canada,4543800
-Iraq OPEC,4470506
+Iraq,4470506
 China,4089997
-United Arab Emirates OPEC,3467870
-Iran OPEC,3293401
+United Arab Emirates,3467870
+Iran,3293401
 Brazil,3021505
-Kuwait OPEC,2825724
+Kuwait,2825724
 Kazakhstan,1726514
 Mexico,1715914
 Norway,1704297
 Qatar,1321192
-Nigeria OPEC,1316415
-Algeria OPEC,1211863
-Angola OPEC,1165993
+Nigeria,1316415
+Algeria,1211863
+Angola,1165993
 Oman,1063251
-Libya OPEC,1057890
+Libya,1057890
 Colombia,751876
 United Kingdom,744965
-Venezuela OPEC,703658
+Venezuela,703658
 Azerbaijan,666869
 Indonesia,610532
 India,607890
@@ -30,15 +30,15 @@ Malaysia,502082
 Ecuador,479518
 Australia,310919
 Guyana,275545
-Republic of the Congo OPEC,272928
-Gabon OPEC,195808
+Republic of the Congo,272928
+Gabon,195808
 Turkmenistan,195109
 Bahrain,188469
 Ghana,179890
 Vietnam,179249
 South Sudan,155110
 Thailand,143083
-Equatorial Guinea OPEC,118384
+Equatorial Guinea,118384
 Syria,85742
 Italy,83151
 Brunei,83759
@@ -58,7 +58,7 @@ Tunisia,33320
 Germany,33242
 Cuba,32079
 Belarus,31756
-Cte dIvoire,30298
+Ivory Coast,30298
 Netherlands,29451
 Bolivia,28460
 Democratic Republic of the Congo,21000
@@ -96,4 +96,3 @@ Slovakia,43
 Morocco,25
 Jordan,20
 Spain,19
-World,80618895

@@ -1,4 +1,4 @@
-Country,Life expectancy at birth
+Country,Life expectancy at birth(29)
 Japan,84.3
 Switzerland,83.4
 South Korea,83.3
@@ -90,11 +90,10 @@ Kazakhstan,74.0
 Cabo Verde,74.0
 Oman,73.9
 Venezuela,73.9
-Viet Nam,73.7
+Vietnam,73.7
 Georgia,73.3
 Moldova,73.3
 Seychelles,73.3
-World,73.3
 Bahamas,73.2
 Russia,73.2
 Saint Vincent and the Grenadines,73.2
@@ -150,7 +149,7 @@ Madagascar,65.3
 Papua New Guinea,65.3
 South Africa,65.3
 Solomon Islands,65.2
-Congo Republic of,64.7
+Republic of the Congo,64.7
 Namibia,64.6
 Togo,64.3
 Haiti,64.1
@@ -162,14 +161,14 @@ Niger,63.3
 Afghanistan,63.2
 Angola,63.1
 Federated States of Micronesia,63.0
-Cte dIvoire,62.9
+Ivory Coast,62.9
 Mali,62.8
 South Sudan,62.8
 Burkina Faso,62.7
 Nigeria,62.6
 Zambia,62.5
 Cameroon,62.4
-Congo Democratic Republic of,62.4
+Democratic Republic of the Congo,62.4
 Equatorial Guinea,62.2
 Botswana,62.2
 Guinea,61.0
