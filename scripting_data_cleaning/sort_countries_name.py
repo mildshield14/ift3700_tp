@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV file into a DataFrame
-csv_file_path = '/Users/vennilasooben/Downloads/ift3700_tp/final_cleaned_binarised_data/final_table.csv'
+csv_file_path = '/Users/vennilasooben/Downloads/ift3700_tp/cleaning_whole_data/final_table.csv'
 df = pd.read_csv(csv_file_path)
 
 # Extract the first column with names

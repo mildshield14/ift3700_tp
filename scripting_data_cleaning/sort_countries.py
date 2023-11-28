@@ -26,7 +26,7 @@ def process_folder(folder_path, output_file):
 
 def main():
     folder_path = "/Users/vennilasooben/Downloads/ift3700_tp/csv_duplicated_columns"
-    output_file = "/Users/vennilasooben/Downloads/ift3700_tp/final_cleaned_binarised_data/final_table.csv" 
+    output_file = "/Users/vennilasooben/Downloads/ift3700_tp/cleaning_whole_data/final_table.csv" 
     process_folder(folder_path, output_file)
 
 if __name__ == "__main__":
