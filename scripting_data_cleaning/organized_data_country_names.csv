@@ -1,0 +1,26 @@
+First Letter,Names
+J,"['Japan', 'Jordan', 'Jamaica', 'Jersey']"
+S,"['Switzerland', 'South Korea', 'Singapore', 'Spain', 'Sweden', 'Slovenia', 'Slovakia', 'Sri Lanka', 'Serbia', 'Saint Lucia', 'Saudi Arabia', 'Seychelles', 'Saint Vincent and the Grenadines', 'Syria', 'Suriname', 'Samoa', 'Sao Tome and Principe', 'Sudan', 'Senegal', 'South Africa', 'Solomon Islands', 'South Sudan', 'Sierra Leone', 'Somalia', 'Saint Kitts and Nevis', 'Swaziland', 'Saint Martin', 'Sint Maarten', 'San Marino', 'Saint Helena Ascension and Tristan da Cunha', 'Saint Pierre and Miquelon', 'Svalbard', 'Saint Barthelemy']"
+C,"['Cyprus', 'Canada', 'Costa Rica', 'Chile', 'Colombia', 'Czech Republic', 'Croatia', 'Cuba', 'China', 'Cabo Verde', 'Cambodia', 'Comoros', 'Cameroon', 'Chad', 'Central African Republic', 'Cook Islands', 'Cape Verde', 'Channel Islands', 'Curacao', 'Cayman Islands', 'Caribbean', 'Christmas Island']"
+I,"['Italy', 'Israel', 'Iceland', 'Ireland', 'Iran', 'Iraq', 'Indonesia', 'India', 'Ivory Coast', 'Isle of Man']"
+A,"['Australia', 'Austria', 'Albania', 'Algeria', 'Argentina', 'Antigua and Barbuda', 'Armenia', 'Azerbaijan', 'Afghanistan', 'Angola', 'Andorra', 'American Samoa', 'Aruba', 'Anguilla']"
+N,"['Norway', 'New Zealand', 'Netherlands', 'Nicaragua', 'North Macedonia', 'North Korea', 'Nepal', 'Namibia', 'Niger', 'Nigeria', 'Nauru', 'Niue', 'Netherlands Antilles', 'New Caledonia', 'Northern Mariana Islands', 'Norfolk Island']"
+F,"['France', 'Finland', 'Fiji', 'Federated States of Micronesia', 'French Guiana', 'French Polynesia', 'Faroe Islands', 'Falkland Islands']"
+L,"['Luxembourg', 'Lebanon', 'Lithuania', 'Libya', 'Latvia', 'Laos', 'Liberia', 'Lesotho', 'Liechtenstein']"
+M,"['Malta', 'Maldives', 'Mexico', 'Montenegro', 'Malaysia', 'Mauritius', 'Moldova', 'Morocco', 'Myanmar', 'Mauritania', 'Mongolia', 'Malawi', 'Madagascar', 'Mali', 'Mozambique', 'Marshall Islands', 'Macau', 'Micronesia', 'Myanmar Burma', 'Monaco', 'Martinique', 'Mayotte', 'Montserrat']"
+G,"['Germany', 'Greece', 'Georgia', 'Grenada', 'Guatemala', 'Gabon', 'Ghana', 'Guyana', 'Gambia', 'Guinea', 'Guinea-Bissau', 'Guadeloupe', 'Guam', 'Gibraltar', 'Greenland', 'Guernsey']"
+P,"['Portugal', 'Peru', 'Panama', 'Poland', 'Paraguay', 'Philippines', 'Pakistan', 'Papua New Guinea', 'Palau', 'Palestine', 'Puerto Rico', 'Pitcairn Islands']"
+B,"['Belgium', 'Bosnia and Herzegovina', 'Barbados', 'Brazil', 'Bahrain', 'Bulgaria', 'Belarus', 'Belize', 'Brunei', 'Bangladesh', 'Bahamas', 'Bhutan', 'Bolivia', 'Burundi', 'Benin', 'Burkina Faso', 'Botswana', 'Bermuda', 'British Virgin Islands']"
+U,"['United Kingdom', 'United States of America', 'Uruguay', 'United Arab Emirates', 'Uzbekistan', 'Ukraine', 'Uganda', 'US Virgin Islands']"
+D,"['Denmark', 'Dominican Republic', 'Djibouti', 'Democratic Republic of the Congo', 'Dominica']"
+K,"['Kuwait', 'Kyrgyzstan', 'Kazakhstan', 'Kenya', 'Kiribati', 'Kosovo']"
+E,"['Estonia', 'Ecuador', 'El Salvador', 'Egypt', 'Ethiopia', 'Eritrea', 'Equatorial Guinea', 'Eswatini']"
+T,"['Turkey', 'Thailand', 'Tunisia', 'Trinidad and Tobago', 'Tonga', 'Turkmenistan', 'Timor-Leste', 'Tajikistan', 'Tanzania', 'Togo', 'Tuvalu', 'Taiwan', 'Turks and Caicos Islands', 'Tokelau']"
+Q,['Qatar']
+H,"['Hungary', 'Honduras', 'Haiti', 'Hong Kong']"
+R,"['Romania', 'Russia', 'Rwanda', 'Republic of the Congo', 'Reunion']"
+O,['Oman']
+V,"['Venezuela', 'Vietnam', 'Vanuatu', 'Vatican City', 'Virgin Islands']"
+Y,['Yemen']
+Z,"['Zambia', 'Zimbabwe']"
+W,"['Western Sahara', 'Wallis and Futuna']"
