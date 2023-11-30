@@ -1,4 +1,4 @@
-Country or entity,% Christian(10)
+Country ,% Christian(10)
 Afghanistan ,0.02%
 Albania ,17.0%
 Algeria ,0.01%
@@ -11,7 +11,7 @@ Argentina ,77%
 Armenia ,97.9%
 Aruba ,88%
 Australia ,43.9%
-Austria ,58%-62%
+Austria ,60%
 Azerbaijan ,3.1%
 Bahamas ,95%
 Bahrain ,15.0%
@@ -40,7 +40,7 @@ Cayman Islands ,66.9%
 Central African Republic ,80%
 Chad ,35.0%
 Chile ,68%
-People's Republic of China ,2.5%-3.5%
+People's Republic of China ,3%
 Colombia ,92%
 Comoros ,2.1%
 Cook Islands ,87.0%
@@ -68,7 +68,7 @@ Falkland Islands ,94.3%
 Faroe Islands ,95.4%
 Fiji ,64.4%
 Finland ,67.1%
-France ,51.1%-58%/63-66%
+France ,59.5%
 Gabon ,88.0%
 Gambia ,4.2%
 Georgia ,88.1%
@@ -84,11 +84,11 @@ Guyana ,62.7%
 Haiti ,96.0%
 Honduras ,88%
 Hong Kong ,18.4%
-Hungary ,52.87%-65.0%
+Hungary ,58.9%
 Iceland ,72.3%
 India ,2.3%
 Indonesia ,10.49%
-Iran ,0.4%-1.5%
+Iran ,0.95%
 Iraq ,1.2%
 Ireland ,83.8%
 Israel ,3.5%
@@ -101,10 +101,10 @@ Kenya ,85.5%
 "Korea, North ",1.7%
 "Korea, South ",27.6%
 Kuwait ,15.0%
-Kyrgyzstan ,11.4%-17.0%
+Kyrgyzstan ,14.2%
 Laos ,2.2%
-Latvia ,70%-80%
-Lebanon ,38.0%-41.0%
+Latvia ,75%
+Lebanon ,39.5%
 Lesotho ,90.0%
 Liberia ,85.5%
 Libya ,2.7%
@@ -130,7 +130,7 @@ Mozambique ,56.1%
 Myanmar ,6.2%
 Namibia ,90.0%
 Nepal ,1.4%
-Netherlands ,37% - 43.8%
+Netherlands ,40.4%
 New Zealand ,37.0%
 Nicaragua ,84.6%
 Niger ,0.5%
@@ -151,14 +151,14 @@ Portugal ,84.8%
 Puerto Rico ,89%
 Qatar ,13.8%
 Romania ,98.0%
-Russia ,46.6%-77.0%
+Russia ,61.8%
 Rwanda ,93.6%
 San Marino ,91.6%
 Saudi Arabia ,5%
 Senegal ,4.2%
 Serbia ,91.0%
 Seychelles ,94.7%
-Sierra Leone ,10%-20.9%
+Sierra Leone ,15.45%
 Singapore ,18.9%
 Slovakia ,68.8%
 Slovenia ,68.0%
@@ -168,9 +168,9 @@ South Sudan ,60.5%
 Spain ,59.2%
 Sri Lanka ,7.4%
 Sudan ,1.5%
-Suriname ,48.4% - 51.6%
+Suriname ,50%
 Sweden ,64.3%
-Switzerland ,66.9%-69.1%
+Switzerland ,68%
 Syria ,10.0%
 Tajikistan ,1.4%
 Tanzania ,61.4%
@@ -185,8 +185,8 @@ Turkmenistan ,9.0%
 Uganda ,84.5%
 Ukraine ,81.9%
 United Arab Emirates ,9.0%
-United Kingdom ,38% - 47.7%
-United States ,65% -73%
+United Kingdom ,42.85%
+United States ,69%
 Uruguay ,58.1%
 Uzbekistan ,2.6%
 Venezuela ,88.0%

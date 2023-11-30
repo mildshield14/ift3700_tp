@@ -25,8 +25,8 @@ def process_folder(folder_path, output_file):
     all_data.to_csv(output_file, index=False)
 
 def main():
-    folder_path = "/Users/vennilasooben/Downloads/ift3700_tp/csv_duplicated_columns"
-    output_file = "/Users/vennilasooben/Downloads/ift3700_tp/cleaning_whole_data/final_table.csv" 
+    folder_path = "/Users/gabrielhazan/Documents/GitHub/ift3700_tp/csv_duplicated_columns"
+    output_file = "/Users/gabrielhazan/Documents/GitHub/ift3700_tp/cleaning_whole_data/final_table.csv"
     process_folder(folder_path, output_file)
 
 if __name__ == "__main__":
