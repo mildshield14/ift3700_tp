@@ -6,7 +6,7 @@ do
     # If directory is empty
     if [ -z "$(ls -A $d)" ]
     then
-        # Add .gitkeep file
+        # Add 1.1 cleaned.csv file
         touch "$d/.gitkeep"
     fi
 done

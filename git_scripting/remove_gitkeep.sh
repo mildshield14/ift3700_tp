@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Find all .gitkeep files and remove them
+# Find all 1.1 cleaned.csv files and remove them
 find . -name ".gitkeep" -type f -delete
