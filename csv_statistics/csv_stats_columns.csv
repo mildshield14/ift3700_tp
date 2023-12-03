@@ -1,0 +1,7 @@
+Stats,GDP(in USD)(1),Median download speed(Mbit/s)(2),Pure Alcohol consumption(Litres)(3),Intentional Homicide Rate(4),Military expenditures(%GDP)(5),Human developement index(6),Democracy index(7),Tertiary education(>2years)(8),Importance of Religion(9),Total Fertility rate (births/woman) (21),Cigarettes (22),Obesity rate (%) (23),Internet users Pct (24),Median ages in years combined (25),Economic Freedom Score(26),Oil production April 2022(27),Population Growth Rate UN[5] 2015–20(28),Life expectancy at birth(29),Meat Consumption kg/person(30)
+Variance,1463401531.859,1682.75,16.782,92.567,27.502,0.023,5.073,155.976,569.144,1.547,805100.866,131.836,856.891,81.982,126.599,4295880006306.798,1.138,50.814,1211.422
+Maximum,234317.0,265.17,15.2,52.1,34.0,0.962,9.81,69.0,99.0,6.82,6398.3,61.0,102.4,55.4,90.2,11884154.0,4.26,84.3,145.9
+Minimum,21267.0,112.81,0.0,0.0,0.6,0.385,1.08,11.0,16.0,0.77,9.7,2.1,1.7,14.8,5.9,19.0,-1.03,50.7,3.0
+Mean,55855.604,168.618,6.174,6.609,3.235,0.721,5.37,39.702,74.75,2.495,910.791,19.91,56.974,31.65,60.766,831169.691,1.246,72.536,45.759
+Median,48824.0,165.515,6.3,2.6,1.85,0.739,5.71,41.0,84.0,2.02,560.9,20.6,63.35,31.7,60.75,61281.0,1.095,73.7,36.6
+Mode,21267.0,112.81,4.8,1.1,1.2,0.745,1.95,41.0,95.0,1.8,9.7,20.2,7.3,20.0,55.4,1000.0,0.24,76.0,67.4
