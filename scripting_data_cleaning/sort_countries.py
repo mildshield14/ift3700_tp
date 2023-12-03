@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import re
 
 def process_folder(folder_path, output_file):
     all_data = pd.DataFrame(columns=["Country"])
@@ -24,10 +25,31 @@ def process_folder(folder_path, output_file):
 
     all_data.to_csv(output_file, index=False)
 
-def main():
-    folder_path = "/Users/gabrielhazan/Documents/GitHub/ift3700_tp/csv_duplicated_columns"
-    output_file = "/Users/gabrielhazan/Documents/GitHub/ift3700_tp/cleaning_whole_data/final_table.csv"
-    process_folder(folder_path, output_file)
+# Function to extract the number from the column names
+def extract_number_from_column(column_name):
+        try:
+            #asked chatgpt about regex to extract (number) from second columns name and got that answer
+          numbers = re.findall(r'\((\d+)\)', column_name)
+          return tuple(map(int, numbers))
+        except ValueError:
+         print("put (number) in youe column header for example: Intentional Homicide Rate(4)")
+         return float('inf')   # If no number is found, place it at the end for now temporarily
 
 if __name__ == "__main__":
-    main()
+
+    folder_path = "/Users/vennilasooben/Downloads/ift3700_tp/csv_duplicated_columns"
+    output_file = "/Users/vennilasooben/Downloads/ift3700_tp/cleaning_whole_data/final_table.csv"
+    process_folder(folder_path, output_file)
+
+    # Read the CSV file into a DataFrame
+    df = pd.read_csv(output_file)
+
+    # Sort the columns based on the numbers in parentheses
+    sorted_columns =  sorted(df.columns[1:], key=extract_number_from_column)
+
+    # Reorganize the DataFrame columns
+    df = df[["Country"] + sorted_columns]
+
+    # Save the resulting DataFrame to a CSV file
+    df.to_csv(output_file, index=False)
+
